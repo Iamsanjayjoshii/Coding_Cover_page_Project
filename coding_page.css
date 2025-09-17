@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 100vh;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.coding_page_card{
+    height: 350px;
+    background-color: #00000080;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: #48ee59;
+    border-width: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.description{
+    color: white;
+    font-weight: bold;
+    font-family: "Bree Serif";
+    font-size: 45px;
+    padding: 35px;
+    margin-left: 10px;
+}
